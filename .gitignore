@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+eduardofince rada.
+Si no se establece la propiedad width sobre un elemento, su tamaño se calcula automáticamente en función de si es un elemento de bloque o en línea, en función del tamaño del elemento contenedor en el que se encuentra y en función de algunos otros parámetros.
+
+De la misma forma, si no se establece la propiedad height sobre un elemento, su valor por defecto es auto, lo que significa que el navegador muestra ese elemento con la altura necesaria para que sus contenidos se vean completamente.
